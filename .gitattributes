@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+# Treat PHP and JS as text
+*.php text
+*.js text
+*.vue text
+*.css text
+*.scss text
+*.html text
+
+# Lock files as binary
+*.lock binary
